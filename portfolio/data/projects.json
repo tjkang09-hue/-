@@ -1,0 +1,44 @@
+[
+  {
+    "title": "PHR 기반 개인건강관리 플랫폼",
+    "role": "PM",
+    "period": "2024.04 – 2025.03",
+    "client": "삼성전자",
+    "result": "헬스케어 데이터 통합·표준화(HL7 FHIR), 앱 설계·개발 총괄"
+  },
+  {
+    "title": "기금부문 데이터 분석포탈",
+    "role": "PL",
+    "period": "2022",
+    "client": "국민연금",
+    "result": "12억 규모, 133MM 투입 프로젝트"
+  },
+  {
+    "title": "데이터 댐 구축",
+    "role": "PM",
+    "period": "2021.06 – 2021.12",
+    "client": "NIA",
+    "result": "영유아 행동영상·3D객체 등 AI 학습데이터 수집·품질관리"
+  },
+  {
+    "title": "RPA 구축 및 PoC",
+    "role": "PM",
+    "period": "2018.02 – 2019.09",
+    "client": "코오롱FnC/베니트, 두산정보통신 등",
+    "result": "AutomateOne·CheckMATE 기반 업무 자동화 다수 리딩"
+  },
+  {
+    "title": "인천 버스 ERP 구축",
+    "role": "컨설팅",
+    "period": "2019.10 – 2020.05",
+    "client": "인천 32개 버스업체",
+    "result": "ERP 론칭 기획 및 구축 가이드 총괄"
+  },
+  {
+    "title": "지식경영포탈(EKP) 구축",
+    "role": "PM",
+    "period": "2005 – 2008",
+    "client": "국민·기업·신한은행 등",
+    "result": "금융권 지식경영시스템(EKP) 다수 구축 리딩"
+  }
+]
